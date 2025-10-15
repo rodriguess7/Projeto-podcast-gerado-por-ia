@@ -1,0 +1,2 @@
+Não foi necessário gerar imagem no midjourney, pois já havia uma imagem png na internet do jeito que eu queria.
+adianto que mesmo que fizesse um prompt para gerar a imagem no midjorney não daria certo, pois a IA gerou os super-hérois de forma completamente distorcida.
